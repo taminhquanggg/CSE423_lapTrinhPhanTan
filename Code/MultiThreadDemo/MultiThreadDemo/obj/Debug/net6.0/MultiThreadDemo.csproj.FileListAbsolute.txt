@@ -1,0 +1,15 @@
+L:\study\CSE423_lapTrinhPhanTan\Code\MultiThreadDemo\MultiThreadDemo\bin\Debug\net6.0\MultiThreadDemo.exe
+L:\study\CSE423_lapTrinhPhanTan\Code\MultiThreadDemo\MultiThreadDemo\bin\Debug\net6.0\MultiThreadDemo.deps.json
+L:\study\CSE423_lapTrinhPhanTan\Code\MultiThreadDemo\MultiThreadDemo\bin\Debug\net6.0\MultiThreadDemo.runtimeconfig.json
+L:\study\CSE423_lapTrinhPhanTan\Code\MultiThreadDemo\MultiThreadDemo\bin\Debug\net6.0\MultiThreadDemo.dll
+L:\study\CSE423_lapTrinhPhanTan\Code\MultiThreadDemo\MultiThreadDemo\bin\Debug\net6.0\MultiThreadDemo.pdb
+L:\study\CSE423_lapTrinhPhanTan\Code\MultiThreadDemo\MultiThreadDemo\obj\Debug\net6.0\MultiThreadDemo.csproj.AssemblyReference.cache
+L:\study\CSE423_lapTrinhPhanTan\Code\MultiThreadDemo\MultiThreadDemo\obj\Debug\net6.0\MultiThreadDemo.GeneratedMSBuildEditorConfig.editorconfig
+L:\study\CSE423_lapTrinhPhanTan\Code\MultiThreadDemo\MultiThreadDemo\obj\Debug\net6.0\MultiThreadDemo.AssemblyInfoInputs.cache
+L:\study\CSE423_lapTrinhPhanTan\Code\MultiThreadDemo\MultiThreadDemo\obj\Debug\net6.0\MultiThreadDemo.AssemblyInfo.cs
+L:\study\CSE423_lapTrinhPhanTan\Code\MultiThreadDemo\MultiThreadDemo\obj\Debug\net6.0\MultiThreadDemo.csproj.CoreCompileInputs.cache
+L:\study\CSE423_lapTrinhPhanTan\Code\MultiThreadDemo\MultiThreadDemo\obj\Debug\net6.0\MultiThreadDemo.dll
+L:\study\CSE423_lapTrinhPhanTan\Code\MultiThreadDemo\MultiThreadDemo\obj\Debug\net6.0\refint\MultiThreadDemo.dll
+L:\study\CSE423_lapTrinhPhanTan\Code\MultiThreadDemo\MultiThreadDemo\obj\Debug\net6.0\MultiThreadDemo.pdb
+L:\study\CSE423_lapTrinhPhanTan\Code\MultiThreadDemo\MultiThreadDemo\obj\Debug\net6.0\MultiThreadDemo.genruntimeconfig.cache
+L:\study\CSE423_lapTrinhPhanTan\Code\MultiThreadDemo\MultiThreadDemo\obj\Debug\net6.0\ref\MultiThreadDemo.dll
