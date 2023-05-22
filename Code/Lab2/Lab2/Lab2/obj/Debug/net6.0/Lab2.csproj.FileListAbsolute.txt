@@ -1,0 +1,15 @@
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab2\Lab2\Lab2\bin\Debug\net6.0\Lab2.exe
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab2\Lab2\Lab2\bin\Debug\net6.0\Lab2.deps.json
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab2\Lab2\Lab2\bin\Debug\net6.0\Lab2.runtimeconfig.json
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab2\Lab2\Lab2\bin\Debug\net6.0\Lab2.dll
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab2\Lab2\Lab2\bin\Debug\net6.0\Lab2.pdb
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.AssemblyReference.cache
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfoInputs.cache
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfo.cs
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.CoreCompileInputs.cache
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.dll
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab2\Lab2\Lab2\obj\Debug\net6.0\refint\Lab2.dll
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.pdb
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab2\Lab2\Lab2\obj\Debug\net6.0\Lab2.genruntimeconfig.cache
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab2\Lab2\Lab2\obj\Debug\net6.0\ref\Lab2.dll

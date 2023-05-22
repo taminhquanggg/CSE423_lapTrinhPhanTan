@@ -1,0 +1,15 @@
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab1\Democode\DemoLab1\DemoLab1\bin\Debug\net6.0\DemoLab1.exe
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab1\Democode\DemoLab1\DemoLab1\bin\Debug\net6.0\DemoLab1.deps.json
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab1\Democode\DemoLab1\DemoLab1\bin\Debug\net6.0\DemoLab1.runtimeconfig.json
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab1\Democode\DemoLab1\DemoLab1\bin\Debug\net6.0\DemoLab1.dll
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab1\Democode\DemoLab1\DemoLab1\bin\Debug\net6.0\DemoLab1.pdb
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab1\Democode\DemoLab1\DemoLab1\obj\Debug\net6.0\DemoLab1.csproj.AssemblyReference.cache
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab1\Democode\DemoLab1\DemoLab1\obj\Debug\net6.0\DemoLab1.GeneratedMSBuildEditorConfig.editorconfig
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab1\Democode\DemoLab1\DemoLab1\obj\Debug\net6.0\DemoLab1.AssemblyInfoInputs.cache
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab1\Democode\DemoLab1\DemoLab1\obj\Debug\net6.0\DemoLab1.AssemblyInfo.cs
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab1\Democode\DemoLab1\DemoLab1\obj\Debug\net6.0\DemoLab1.csproj.CoreCompileInputs.cache
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab1\Democode\DemoLab1\DemoLab1\obj\Debug\net6.0\DemoLab1.dll
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab1\Democode\DemoLab1\DemoLab1\obj\Debug\net6.0\refint\DemoLab1.dll
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab1\Democode\DemoLab1\DemoLab1\obj\Debug\net6.0\DemoLab1.pdb
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab1\Democode\DemoLab1\DemoLab1\obj\Debug\net6.0\DemoLab1.genruntimeconfig.cache
+L:\study\CSE423_lapTrinhPhanTan\Code\Lab1\Democode\DemoLab1\DemoLab1\obj\Debug\net6.0\ref\DemoLab1.dll
