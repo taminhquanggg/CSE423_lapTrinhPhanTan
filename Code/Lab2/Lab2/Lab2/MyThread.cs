@@ -7,7 +7,7 @@ namespace Lab2
         const int MAX_LEN_ARR = 10;
         int _myId;
         Lock _lock;
-        int[] data;
+        static int[] data;
 
 
         int startArr, endArr;
@@ -15,8 +15,6 @@ namespace Lab2
 
         public MyThread(int id, Lock _lock)
         {
-            data = new int[MAX_LEN_ARR];
-
             this._myId = id;
             this._lock = _lock;
 
@@ -45,6 +43,10 @@ namespace Lab2
                 Console.WriteLine("Thread " + _myId + " in CS. Show DATA: ");
                 for (int i = 0; i < MAX_LEN_ARR; i++)
                 {
+                    if (i==5)
+                    {
+                        Console.WriteLine(".......");
+                    }
                     Console.WriteLine("data[" + i + "] = " + data[i]);
                 }
                 Console.WriteLine("_______________________");
@@ -121,6 +123,7 @@ namespace Lab2
 
         static void Main(string[] args)
         {
+            data = new int[MAX_LEN_ARR];
             Lock testLock = new PetersonAlgorithm();
             for (int i = 0; i < 2; i++)
             {
